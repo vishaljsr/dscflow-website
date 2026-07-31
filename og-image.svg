@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" fill="none" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0A2540"/>
+  <rect x="64" y="64" width="1072" height="502" rx="28" fill="#F8FAFC"/>
+  <text x="120" y="260" fill="#0A2540" font-family="Poppins, Segoe UI, sans-serif" font-size="84" font-weight="700">DSCFlow</text>
+  <text x="120" y="340" fill="#0A2540" font-family="Poppins, Segoe UI, sans-serif" font-size="34" font-weight="600">Digitally sign PDFs with your USB DSC token</text>
+  <text x="120" y="400" fill="#5B6B7C" font-family="Poppins, Segoe UI, sans-serif" font-size="26">For advocates, contractors &amp; government teams</text>
+</svg>

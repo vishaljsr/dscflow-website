@@ -1,0 +1,17 @@
+# DSCFlow static hosting (Hostinger / Apache)
+# - Correct MIME for ES module assets (pdf.js historically used .mjs)
+# - SPA fallback so /sign works on direct load / refresh
+
+AddType application/javascript .mjs
+AddType application/javascript .js
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Do not rewrite real files or directories
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
