@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.2",
+  "latest_version": "1.3.3",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "Automatic Update: click Update to download and install silently, then the agent relaunches. Windows may ask once for permission (UAC)."
+  "release_notes": "Fix automatic Update: elevate and detach the installer so silent install completes, then the agent relaunches. Approve the Windows UAC prompt if shown."
 }
