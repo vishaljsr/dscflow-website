@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.2.0",
+  "latest_version": "1.3.0",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "Update notifications for the agent, professional signing identity card with certificate status and details, and editor status polish. Notify-only updates \u2014 no auto-install."
+  "release_notes": "Bulk Sign: queue multiple PDFs, place once with Same Position or Intelligent mode, sign all with one PIN. Collapsible placements sidebar and single-PDF UX polish."
 }
