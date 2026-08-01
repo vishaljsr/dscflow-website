@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.4",
+  "latest_version": "1.3.5",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "DSCFlow 1.3.4 \u2014 Trust, recovery & update reliability\n\n\u2022 Simplified About dialog (no localhost/API); X closes cleanly\n\u2022 Update checks run at startup and daily; update-check.log for diagnostics\n\u2022 Manual Check for Updates from About\n\u2022 Recovery CTAs for offline/outdated agent \u2192 https://dscflow.com/download\n\u2022 Homepage Need Help section and Install Guide latest-version note\n\u2022 Responsive toolbar polish for smaller laptops"
+  "release_notes": "DSCFlow 1.3.5 \u2014 Update prompt verification\n\n\u2022 Small About dialog text change to confirm automatic update notification from 1.3.4"
 }
