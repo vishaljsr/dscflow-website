@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.6",
+  "latest_version": "1.3.7",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "DSCFlow 1.3.6 \u2014 Product branding & update experience\n\n\u2022 User-facing Agent wording replaced with Signing Service / DSCFlow\n\u2022 About dialog: DSCFlow Secure Signing Service (no localhost/API)\n\u2022 Status pills, errors, homepage, and Install Guide rebranded\n\u2022 Update actions say Update DSCFlow\n\u2022 Website-wide New Version Available / Update Required indicator"
+  "release_notes": "DSCFlow 1.3.7 \u2014 Floating update indicator\n\n\u2022 Move New Version Available / Update Required off the topbar\n\u2022 Fixed bottom-right floating pill (stays visible while scrolling)\n\u2022 Clears crowded header overlap with status pills and actions"
 }
