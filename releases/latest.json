@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.7",
+  "latest_version": "1.3.8",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "DSCFlow 1.3.7 \u2014 Floating update indicator\n\n\u2022 Move New Version Available / Update Required off the topbar\n\u2022 Fixed bottom-right floating pill (stays visible while scrolling)\n\u2022 Clears crowded header overlap with status pills and actions"
+  "release_notes": "DSCFlow Agent 1.3.8."
 }
