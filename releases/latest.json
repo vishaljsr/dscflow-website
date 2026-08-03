@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.19",
+  "latest_version": "1.3.20",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "Fix install-guide 403: move SmartScreen screenshots off /install-guide and open Update DSCFlow via SPA navigation so the host serves the page instead of a forbidden directory."
+  "release_notes": "Update DSCFlow downloads the installer EXE directly again. Download Latest Version still opens the install guide."
 }
