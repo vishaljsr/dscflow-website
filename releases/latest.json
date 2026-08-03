@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.20",
+  "latest_version": "1.3.21",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "Update DSCFlow downloads the installer EXE directly again. Download Latest Version still opens the install guide."
+  "release_notes": "Update DSCFlow from the website now installs automatically (silent elevated install, same as the tray). Windows may show one UAC prompt. Older agents fall back to the installer download once."
 }
