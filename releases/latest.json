@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.28",
+  "latest_version": "1.3.29",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "Homepage PDF Arena: catalogue of Sign / Bulk Sign (Available) and future PDF tools (Coming Soon). Website-only \u2014 no signing engine changes."
+  "release_notes": "PDF Arena Merge PDF is live: combine PDFs entirely in the browser (drag-drop, reorder, download). Privacy First \u2014 files never leave your PC. No signing/agent changes."
 }
