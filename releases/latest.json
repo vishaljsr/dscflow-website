@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.29",
+  "latest_version": "1.3.30",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "PDF Arena Merge PDF is live: combine PDFs entirely in the browser (drag-drop, reorder, download). Privacy First \u2014 files never leave your PC. No signing/agent changes."
+  "release_notes": "Fix Merge PDF file picker so Browse Files correctly adds PDFs to the queue."
 }
