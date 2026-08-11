@@ -2,5 +2,5 @@
   "latest_version": "1.3.32",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "Seller Automation: All_Labels/All_Invoices combined PDFs, tighter tax-invoice crops (no label footer bleed), Print primary control. Brand: new logo + DSCFLOW text wordmark across the site."
+  "release_notes": "Website: enable Google Analytics (GA4) Measurement ID G-DDH9XX25BV."
 }
