@@ -190,4 +190,29 @@
     <changefreq>monthly</changefreq>
     <priority>0.89</priority>
   </url>
+  <url>
+    <loc>https://dscflow.com/help/ecommerce-seller-automation</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://dscflow.com/help/flipkart-label-invoice-processor</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dscflow.com/help/meesho-label-invoice-processor</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dscflow.com/help/separate-labels-invoices</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dscflow.com/help/print-label-invoice-order</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
