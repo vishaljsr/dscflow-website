@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.33",
+  "latest_version": "1.3.34",
   "minimum_supported": "1.1.0",
   "download_url": "https://dscflow.com/downloads/DSCFlowAgentSetup.exe",
-  "release_notes": "DSCFlow Agent 1.3.33 \u2014 improved cryptographic PDF signing with RSA-PSS and ECDSA support, while maintaining existing RSA DSC signing compatibility."
+  "release_notes": "DSCFlow Agent 1.3.34 \u2014 added local PFX/P12 certificate signing for PDF documents. PFX files and private keys are processed locally by the DSCFlow Agent and are not uploaded to DSCFlow servers. Existing USB DSC signing remains unchanged."
 }
